@@ -1,7 +1,7 @@
 # python-gene-finder
 This is a simple Python program that finds possible genes in a 5' to 3' DNA sequence by locating open reading frames (ORFs). An ORF starts with a start codon (ATG) and ends with a stop codon (TAA, TAG, or TGA), and must be in frame (the length between start and stop codons must be a multiple of 3).
 
-## what it does:
+## What it does:
 
 - Asks the user to input a DNA sequence (A, T, C, G).
 - Finds gene regions that:
